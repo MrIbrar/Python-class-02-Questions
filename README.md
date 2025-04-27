@@ -52,7 +52,7 @@ This repository contains simple Python programs designed to practice basic conce
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MrIbrar/Python-class-02-Questions.git
+https://github.com/MrIbrar/Python-class-02-Questions.git
 ```
 
 2. Navigate to the project directory:
